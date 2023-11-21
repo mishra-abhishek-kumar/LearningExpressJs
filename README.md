@@ -9,6 +9,6 @@ run 'nodemon' OR 'node index.js' to start the server
 
 4. created an app using express()
 
-5. created a get request at endpoint '/'
+5. created a get request at endpoint '/' & sending response 
 
 5. listening to the app on port 4000
